@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EventsApp</string>
+    <string name="conflict_text">Conflicted Events</string>
+    <string name="no_conflict_events">No conflicted Events</string>
+</resources>
